@@ -26,4 +26,5 @@ main = do
             , prefix </> "src/Dhall.hs"
             , prefix </> "src/Dhall/Import.hs"
             , prefix </> "src/Dhall/Tutorial.hs"
+            , prefix </> "src/Dhall/TH.hs"
             ]
